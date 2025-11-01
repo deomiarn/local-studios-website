@@ -15,6 +15,7 @@ Read in this order:
 4. `/docs/features/` - Feature implementations
 5. `.claude/sop/` - Standard operating procedures
 6. `.claude/sessions/[session]/communication.md` - Recent agent work
+6. `.claude/sessions/[session]/planning.md` - Recent agent plans
 
 ## Step 2: Invoke docs-architect Agent
 
